@@ -1,0 +1,52 @@
+[
+    {
+      "score": 17.592657,
+      "show": {
+        "name": "Facebook",
+        "type": "Social media",
+        "files": "Private fotoes",
+        "data": "Login and password, Personal info",
+        "preferences": "Comments and posts"
+      }
+    },
+    {
+        "score": 17.592657,
+        "show": {
+          "name": "Google",
+          "type": "Social media",
+          "files": "Private fotoes, drive documents",
+          "data": "Login and password, text correspondence",
+          "preferences": "Comments and posts"
+        }
+      },
+      {
+        "score": 17.592657,
+        "show": {
+          "name": "Spotify",
+          "type": "Media player and library",
+          "files": "",
+          "data": "Login and password",
+          "preferences": "Chosen music"
+        }
+      },
+      {
+        "score": 17.592657,
+        "show": {
+          "name": "Steam, gaming platform",
+          "type": "Gaming platform",
+          "files": "Game files: save files etc.",
+          "data": "Login and password",
+          "preferences": "Game preferences"
+        }
+      },
+      {
+        "score": 17.592657,
+        "show": {
+          "name": "E-boks",
+          "type": "mail platform, governmental",
+          "files": "Higly Private text files",
+          "data": "Login and password, Highly personal information",
+          "preferences": "none"
+        }
+      }
+  ]
